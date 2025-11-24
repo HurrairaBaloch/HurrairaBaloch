@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-- 🔭 I’m currently working as a Full Stack Developer + Ai solutions 
+- 🔭 I’m currently working as a Full Stack Developer + Ai solutions expert
 - 💬 Ask me about Node-js,Nest-js,Next-js,React...etc
 - 📫 How to reach me: hurairabaloch996@gmail.com
 
