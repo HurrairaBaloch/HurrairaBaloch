@@ -1,6 +1,6 @@
   ### Hi there 👋
 
-- 🔭 I’m currently working on MERN Stack and Cloud Computing
+- 🔭 I’m currently working as a Full Stack Developer + Ai solutions 
 - 💬 Ask me about Node-js,Nest-js,Next-js,React...etc
 - 📫 How to reach me: hurairabaloch996@gmail.com
 
