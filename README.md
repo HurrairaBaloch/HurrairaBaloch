@@ -1,5 +1,5 @@
   ### Hi there 👋
-Full-Stack Developer | AI Solutions Engineer | Application Deployment Specialist
+Full-Stack Developer | AI Solutions Engineer | Application Deployment 
 
 🔭 Currently working on: Full-stack applications, AI-powered solutions, and cloud/server deployments
 
