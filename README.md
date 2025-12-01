@@ -1,8 +1,12 @@
   ### Hi there 👋
+Full-Stack Developer | AI Solutions Engineer | Application Deployment Specialist
 
-- 🔭 I’m currently working as a Full Stack Developer + Ai solutions expert
-- 💬 Ask me about Node-js,Nest-js,Next-js,React...etc
-- 📫 How to reach me: hurairabaloch996@gmail.com
+🔭 Currently working on: Full-stack applications, AI-powered solutions, and cloud/server deployments
+
+💬 Ask me about: Express.js, Nest.js, Next.js, React, and modern UI libraries
+
+📫 Contact me: hurairabaloch996@gmail.com
+ | 0312-7798411
 
 
 <h3 align="left">Languages and Tools:</h3>
